@@ -1,0 +1,3 @@
+-cp tools
+-main Build
+--interp

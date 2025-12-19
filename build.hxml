@@ -1,0 +1,7 @@
+-cp src
+-cp tools
+-main Main
+--macro EnsureDirs.ensure()
+-lua build/gen.lua
+
+-D lua-ver=5.3

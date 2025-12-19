@@ -1,0 +1,27 @@
+# Generated output
+/build/
+/cart/
+
+# Haxe / tooling caches
+.haxelib/
+.haxe/
+*.n
+*.dump
+
+# Local backups / TIC-80 metadata
+cart/main.lua.del
+cart/.local/
+
+# IDE / editor
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
