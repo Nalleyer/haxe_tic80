@@ -1,5 +1,7 @@
 # Haxe + TIC-80 Template (Lua cart)
 
+**中文** | [English](README_EN.md)
+
 这个工程是一个 **Haxe 编写逻辑**、并输出为 **TIC-80 可运行的 `main.lua`** 的模板工程。
 
 - **目标平台**：TIC-80（Lua 脚本）
